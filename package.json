@@ -1,0 +1,9 @@
+{
+  "name": "fsm",
+  "version": "0.0.1",
+  "description": "A finite state machine class, based on :gen_statem",
+  "main": "index.js",
+  "author": "Daniel Couper <danielcouper81@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
